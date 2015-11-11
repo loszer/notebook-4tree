@@ -1,0 +1,7 @@
+wordpress相关资料
+=======
+
+书籍（这里只记录了有中文译本的）
+1. 移动Web开发高级教程——使用WordPress、Joomla!和Drupal
+2. 深入浅出wordpress
+3. 深入解析wordpress
